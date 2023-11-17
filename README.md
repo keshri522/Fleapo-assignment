@@ -3,7 +3,7 @@
 To watch site live use this link
 
 ```bash
-https://app.netlify.com/sites/jovial-clafoutis-4c884b/deploys/65576026a49b1a1f1312ed5f
+https://65576026a49b1a1f1312ed5f--jovial-clafoutis-4c884b.netlify.app/
 ```
 
 site is also responsive
